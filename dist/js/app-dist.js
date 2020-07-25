@@ -1,0 +1,1 @@
+"use strict";function checkInp(e){e&&$("#response").html("Input cannot be empty")}$("#page script").hide();
