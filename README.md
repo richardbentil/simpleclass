@@ -1,8 +1,8 @@
 # Simpleclass
 
-A web app that help teachers uload course materials for student to have access to the materials
+A web app that help teachers upload course materials for student to have access to the materials
 
-![screenshot](https://github.com/richardbentil/simpleclass/blob/master/dist/images/simpleclass.png)
+![screenshot](https://github.com/richardbentil/simpleclass/blob/master/images/simpleclass.png)
 
 ## Instructions
 
